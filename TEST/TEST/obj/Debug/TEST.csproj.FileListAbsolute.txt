@@ -1,0 +1,6 @@
+C:\Users\Nicola A\Documents\ITS APPUNTI\Visual Studio\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\Nicola A\Documents\ITS APPUNTI\Visual Studio\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\Nicola A\Documents\ITS APPUNTI\Visual Studio\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\Nicola A\Documents\ITS APPUNTI\Visual Studio\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\Nicola A\Documents\ITS APPUNTI\Visual Studio\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\Nicola A\Documents\ITS APPUNTI\Visual Studio\TEST\TEST\obj\Debug\TEST.pdb
